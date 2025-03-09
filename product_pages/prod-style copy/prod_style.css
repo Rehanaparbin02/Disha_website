@@ -1,0 +1,8 @@
+.custom-container {
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+}
+.h2-title {
+    white-space: nowrap; /* Prevents wrapping */
+    margin-right: 20px; /* Adds space between title and dropdown */
+}

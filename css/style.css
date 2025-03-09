@@ -16,7 +16,7 @@ body{
     top: 0; /* Adjusted to 0 to cover the gap between the top of the browser and navbar */
     left: 50%;
     transform: translateX(-50%);
-    background-color:#4d0000;
+    background-color:#1d1d1d;
     padding: 1px 240px;
     border-radius: 50px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
